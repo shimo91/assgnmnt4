@@ -27,7 +27,7 @@ const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
     auth: {
         user: 'shimonadeveloper@gmail.com',
-        pass: 'blpx xqii tnql vnvg',
+        pass: '123456',
     },
     secure: true, // upgrades later with STARTTLS -- change this based on the PORT
 });
